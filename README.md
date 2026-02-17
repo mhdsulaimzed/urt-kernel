@@ -1,2 +1,2 @@
-# uRT
+# μRT
 Micro Runtime for AVR
